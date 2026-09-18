@@ -6,8 +6,6 @@ Este proyecto desarrolla modelos de redes neuronales para estimar la energía de
 
 El objetivo es predecir la variable `mc.logEnergy` utilizando características relacionadas con las cascadas de partículas producidas por los rayos gamma al interactuar con la atmósfera terrestre.
 
-El proyecto fue desarrollado como parte de mi formación académica en aprendizaje automático, análisis de datos y física computacional.
-
 ## Objetivos
 
 - Analizar datos relacionados con eventos detectados por HAWC.
