@@ -2,7 +2,7 @@
 
 ## Proyectos destacados
 
-### [Reconstrucción de energía de rayos gamma con HAWC](ENLACE_AL_REPOSITORIO)
+### [Reconstrucción de energía de rayos gamma con HAWC](https://github.com/cuaub23/Energy-Reconstruction-of-Gamma-Rays-in-HAWC)
 
 <details>
 <summary>Detalles</summary>
@@ -18,7 +18,7 @@ Este proyecto utiliza redes neuronales para estimar la energía de rayos gamma d
 
 </details>
 
-### [Simulaciones Monte Carlo para calcular integrales de camino](ENLACE_AL_REPOSITORIO)
+### [Simulaciones Monte Carlo para calcular integrales de camino](https://github.com/cuaub23/Monte-Carlo-Simulations-For-Path-Integral-Calculations)
 
 <details>
 <summary>Detalles</summary>
